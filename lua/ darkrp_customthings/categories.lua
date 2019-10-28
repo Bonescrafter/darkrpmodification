@@ -18,6 +18,6 @@ DarkRP.createCategory{
 }
 
 
-Add new categories under the next line!
----------------------------------------------------------------------------]]
+Add new categories under the next line:
+https://csite.io/tools/gmod-darkrp-category
 
